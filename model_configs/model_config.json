@@ -1,0 +1,10 @@
+{
+    "model_dict": {
+        "llama-3-70b-instruct": [
+            ["llama-3-70b-instruct", "http://aa.bb.cc.dd:port/v1", "EMPTY"]
+        ]
+    },
+    "worker_dict": {
+        "llama-3-70b-instruct": 40
+    }
+}
