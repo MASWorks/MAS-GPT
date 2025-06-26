@@ -1,5 +1,11 @@
 # [ICML2025] MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems
 
+<p align="center">
+📑 <a href="https://arxiv.org/pdf/2503.03686" target="_blank">ArXiv Paper</a> ｜
+🤗 <a href="https://huggingface.co/MASWorks/MAS-GPT-32B" target="_blank">Model Weights</a>
+</p>
+
+
 This is the official repository for the paper: MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems.
 
 MAS-GPT is an open-source model trained to take a user query and generate a complete, executable, and query-adaptive MAS in a single inference. This generated system can then be immediately used to process the query and deliver a high-quality solution.
